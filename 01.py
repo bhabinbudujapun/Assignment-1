@@ -1,3 +1,4 @@
+'''
 In Windows command:
 To get the python version you using
 
@@ -6,3 +7,10 @@ To get the python version you using
 or,
 
 >> py --version
+
+or,
+
+'''
+
+import sys
+print(sys.version)
